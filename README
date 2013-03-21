@@ -1,9 +1,8 @@
 ##############################################################################
-# Driver for SCMD-2 (x86)
+# Driver for SCMD-2 (x86 & x64)
 ##############################################################################
 
-This is a mix of versions 3.01.04 (15/12/2005) and CDM 2.02.04 (06/27/2007) of
-customised FTDI D2XX driver. The driver works on all x86 Windows versions from
-95 to XP. This driver was originally supplied with SCMD-2.
+This is a version 2.08.28 (18/03/2013) of customised FTDI D2XX driver. The
+driver works on both x86 and x64 Windows version from XP to Windows 8.
 
 Original files were retrieved from http://www.ftdichip.com/FTDrivers.htm

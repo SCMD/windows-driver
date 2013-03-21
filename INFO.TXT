@@ -1,2 +1,0 @@
-Windows driver for SCMD-2 (all versions)
-VID 0403, PID A138 (allocated by FTDI)
